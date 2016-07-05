@@ -1,0 +1,13 @@
+<animated-vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/ic_arrow">
+
+    <target
+        android:name="left"
+        android:animation="@animator/anim_left"/>
+
+    <target
+        android:name="right"
+        android:animation="@animator/anim_right"/>
+
+</animated-vector>

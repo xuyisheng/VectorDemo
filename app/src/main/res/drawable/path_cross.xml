@@ -1,0 +1,13 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+        android:width="120dp"
+        android:height="120dp"
+        android:viewportHeight="24"
+        android:viewportWidth="24">
+    <group>
+        <path
+            android:name="tickCrossGroup"
+            android:pathData="M17.6,6.4 L6.4,17.6 M6.4,6.4 L17.6,17.6"
+            android:strokeColor="#000"
+            android:strokeWidth="2"/>
+    </group>
+</vector>

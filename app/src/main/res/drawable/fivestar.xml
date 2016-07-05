@@ -1,0 +1,14 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+        android:width="120dp"
+        android:height="120dp"
+        android:viewportHeight="64"
+        android:viewportWidth="64">
+    <group>
+        <path
+            android:name="star"
+            android:fillColor="#22e171"
+            android:pathData="M 48,54 L 31,42 15,54 21,35 6,23 25,23 32,4 40,23 58,23 42,35 z"
+            android:strokeColor="#000000"
+            android:strokeWidth="1"/>
+    </group>
+</vector>

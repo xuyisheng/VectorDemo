@@ -1,0 +1,6 @@
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+                 android:drawable="@drawable/path_tick" >
+    <target
+        android:name="tickCrossGroup"
+        android:animation="@animator/anim_path_tick2cross" />
+</animated-vector>

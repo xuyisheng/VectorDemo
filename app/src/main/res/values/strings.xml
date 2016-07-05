@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VectorDemo</string>
+    <string name="path">M141,17 A9,9 0 1,1 142,16 L149,23</string>
+</resources>

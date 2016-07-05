@@ -1,0 +1,17 @@
+<animated-vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/cross">
+
+    <target
+        android:name="line"
+        android:animation="@animator/anim_cross_line"/>
+
+    <target
+        android:name="circle1"
+        android:animation="@animator/anim_cross_circle1"/>
+
+    <target
+        android:name="circle2"
+        android:animation="@animator/anim_cross_circle2"/>
+
+</animated-vector>

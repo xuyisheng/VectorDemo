@@ -1,0 +1,7 @@
+<animated-vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/heart">
+    <target
+        android:name="clip"
+        android:animation="@animator/anim_heart_full" />
+</animated-vector>
